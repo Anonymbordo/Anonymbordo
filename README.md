@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anonymbordo
+- 👋 Hi, I’m murathan
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI Engineering
 - 💞️ I’m looking to collaborate on ...
